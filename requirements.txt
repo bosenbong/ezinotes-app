@@ -1,3 +1,6 @@
 streamlit
 openai
 fpdf
+streamlit-webrtc
+numpy
+av
