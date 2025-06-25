@@ -1,6 +1,6 @@
 streamlit
 openai
 fpdf
-streamlit-webrtc
+streamlit-webrtc==0.45.0
 numpy
 av
